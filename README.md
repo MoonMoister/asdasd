@@ -1,4 +1,2 @@
-# UniverseRealms.github.io
+# TESTING
 Official Server Github
-
-https://discord.gg/tJNgzsS
